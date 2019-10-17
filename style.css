@@ -1,3 +1,9 @@
+
+
+body {
+  font-family: 'Aclonica';
+}
+
 /* Basislayout */
 
 html, body {
@@ -6,7 +12,7 @@ html, body {
     background-color: #EEEEEE;  
     
     color: #303030;
-    font: Verdana, Arial, Sans-Serif;
+/*    font: Verdana, Arial, Sans-Serif; */
 }
 
 
