@@ -1,2 +1,2 @@
-# website
+# html/css
 Eenvoudige voorbeeld website
